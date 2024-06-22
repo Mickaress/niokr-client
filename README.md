@@ -4,11 +4,11 @@
 
 ## Стек
 
-`Vue 3`, `Typescript`, `Vite`, `Pinia`, `Vue-Query`
+`Vue 3`, `Typescript`, `Vite`
 
 ## Тест сервер
 
-<https://Mickaress.github.io/niokr-client/>
+[193.168.46.150](http://193.168.46.150/)
 
 ### Запуск проекта
 
